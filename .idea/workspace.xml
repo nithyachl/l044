@@ -21,7 +21,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1oFxbBSL02UnYsJXaOlbHD4JckJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,7 +63,7 @@
       <workItem from="1612896212670" duration="22000" />
       <workItem from="1612896238548" duration="3154000" />
       <workItem from="1613065409914" duration="5965000" />
-      <workItem from="1613107118978" duration="9614000" />
+      <workItem from="1613107118978" duration="10021000" />
     </task>
     <servers />
   </component>
@@ -67,6 +71,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="588" y="326" key="Github.ShareDialog" timestamp="1613171753819">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="588" y="326" key="Github.ShareDialog/0.25.1440.813@0.25.1440.813" timestamp="1613171753819" />
+    <state x="507" y="134" key="Github.UntrackedFilesDialog" timestamp="1613171760203">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="507" y="134" key="Github.UntrackedFilesDialog/0.25.1440.813@0.25.1440.813" timestamp="1613171760203" />
     <state width="534" height="163" key="GridCell.Tab.0.bottom" timestamp="1613171265157">
       <screen x="0" y="25" width="1440" height="813" />
     </state>
